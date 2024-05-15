@@ -2,7 +2,7 @@
 ## Описание проекта
 Этот проект представлят собой CNN модель, способную предсказывать страну на фотографии. Модель основана на глубоком обучении с использованием библиотеки PyTorch.
 
-На основе датасета: https://www.kaggle.com/datasets/ubitquitin/geolocation-geoguessr-images-50k/code
+На основе датасета: [тык](https://www.kaggle.com/datasets/ubitquitin/geolocation-geoguessr-images-50k)
 
 ## Библиотеки
 1. torch
