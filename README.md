@@ -10,6 +10,10 @@
 3. pillow
 
 ## Использование
-1. Установите зависимости:
-   !pip install -r requirements.txt
-2. Запускайте ячейки после "Проверка на реальных примерах", указав image_path = "ПУТЬ К ФОТОГРАФИИ"
+1. Установите все необходимые файлы:
+
+   git clone https://github.com/YasherkaTOP/Photo2Country_prediction.git
+2. Установите зависимости:
+
+   pip install -r requirements.txt
+3. Запускайте ячейки после "Проверка на реальных примерах", указав image_path = "ПУТЬ К ФОТОГРАФИИ"
